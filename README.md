@@ -4,5 +4,8 @@ In this project you will see a product cart. It was created using C++ and QT Cre
 
 
 # ![alt text](https://github.com/PanVova/ProductCart/blob/main/Photos/1234.JPG)
-# ![alt text](https://github.com/PanVova/ProductCart/blob/main/Photos/12356.JPG)
 # ![alt text](https://github.com/PanVova/ProductCart/blob/main/Photos/6.JPG)
+
+In case you have problems with entering data :
+# ![alt text](https://github.com/PanVova/ProductCart/blob/main/Photos/12356.JPG)
+
